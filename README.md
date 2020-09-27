@@ -1,7 +1,8 @@
 # glass_tile_board_game
 An implementation of the Azul board game in C++ (this project is in french).
 
-# To run the game: compile and run the projetCSI2772.cpp 
+**To run the game: compile and run the projetCSI2772.cpp 
+
 -Game: 
 *Each player has a board with a random combination of the 5 colors: Grey, Red, Blue, Yellow, Orange
 *The goal: who ever fills their board first, or whoever gains the most points wins 
